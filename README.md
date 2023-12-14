@@ -87,14 +87,18 @@ The contributors and reviewers assert their good faith effort to adhere to all k
 legal requirements for academic and security research. Questions and concerns should be addressed
 to the sig-security leads or CNCF legal representatives.
 
+## Done
+
+- [X] Present initial framework to the Contributor Summit and gather feedback
+- [X] Link to next K8s audit ticket
+      
 ## Roadmap Post KubeCon NA 2023
 
-- [ ] Host the roadmap in Github tasks and move the following there...
-- [ ] Present initial framework to the Contributor Summit and gather feedback and
-      create issues
 - [ ] Present beta deliverables to sig-security for review and gather feedback
       and create issues
-- [ ] Present GA deliverables to future CNCF event
+      - [ ] Host the repo under sig-security
+      - [ ] roadmap in Github tasks
+- [ ] Present GA deliverables to future CNCF event or KubeCon
 - [ ] Hold "office hour" sessions at future CNCF event(s) for sub-projects to actually
       use the methodology and tools and refine the threat model
 - [ ] Create blog post for GA with CNCF docs
